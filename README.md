@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvangg" alt="mvangg" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio.](https://github.com/Mvangg/portfolio)
+- 🔭 I’m currently working on [my portfolio.](https://github.com/Mvangg/portfolio) and an amazing mob project with amazing aspiring Software Developers.
 
 - 🌱 I’m currently learning **Full-stack development at LEARN Academy.**
 
