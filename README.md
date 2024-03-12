@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvangg" alt="mvangg" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack development at LEARN Academy**.
+- 🌱 I’m currently learning **TypeScript and TailWind**.
 
 - 👩🏻‍💻 Software Engineering Intern at <a href="https://zoee.com/">**Zoee**</a>.
 
